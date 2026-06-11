@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Tariima
@@ -39,3 +39,13 @@ jobs:
           # Líneas de código modificadas (incluye repos privados vía PAT)
           plugin_lines: yes
           plugin_lines_sections: base
+
+          # Hábitos de commits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Logros
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
