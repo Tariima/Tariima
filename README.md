@@ -23,13 +23,21 @@ Desarrollador full-stack enfocado en llevar aplicaciones a **producción real** 
 - 🧩 Plataformas multi-tenant, integraciones de pago y automatización de workflows
 - 🤝 Contribuyendo en **Solvant** y **Krownsoft**
 - 🎓 Estudiando la **Tecnicatura Universitaria en Programación**
-- 🌎 Argentina · 🗣️ Español (nativo)
+- 🌎 Rosario, Santa Fe, Argentina · 🗣️ Español (nativo) · Inglés B2
 - 🔗 **Mi portfolio completo → [msione-portfolio.vercel.app](https://msione-portfolio.vercel.app)**
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,fastapi,flutter,dart,postgres,supabase,redis,docker,git,vercel&perline=8&theme=dark" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <b>Frontend:</b> React · Next.js · TypeScript · JavaScript · Tailwind CSS<br/>
+  <b>Backend:</b> Node.js · Python · FastAPI<br/>
+  <b>Mobile:</b> Flutter · Dart<br/>
+  <b>Bases de datos:</b> PostgreSQL · Supabase · Redis<br/>
+  <b>DevOps &amp; Tools:</b> Docker · Git · Vercel
 </p>
 
 ## 💼 Trabajo destacado
