@@ -35,3 +35,13 @@ jobs:
           # Calendario de actividad (isométrico)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Hábitos de commits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Logros
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
