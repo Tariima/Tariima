@@ -68,10 +68,4 @@ Algunas cosas que construí — write-ups completos en mi **[portfolio](https://
   <img src="https://streak-stats.demolab.com?user=Tariima&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Racha de commits" />
 </p>
 
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tariima&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trofeos" />
-</p>
-
 <p align="center"><sub>Estudiante de la Tecnicatura Universitaria en Programación.</sub></p>
