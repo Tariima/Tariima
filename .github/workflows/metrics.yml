@@ -36,10 +36,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Líneas de código modificadas (incluye repos privados vía PAT)
-          plugin_lines: yes
-          plugin_lines_sections: base
-
           # Hábitos de commits
           plugin_habits: yes
           plugin_habits_from: 200
