@@ -50,10 +50,11 @@ Desarrollador full-stack enfocado en llevar aplicaciones a **producción real** 
 
 Algunas cosas que construí — write-ups completos en mi **[portfolio](https://portfolio-six-beta-qk2tnvdm9l.vercel.app)**:
 
-- 🎫 **Plataforma de venta de entradas y control de acceso** — pago online + validación de acceso en puerta incluso sin conexión, QR firmados con HMAC y webhooks de pago idempotentes · `Next.js` `Supabase` `Mercado Pago`
-- 📊 **Plataforma SaaS de reporting multi-tenant** — aislamiento por workspace con Row-Level Security, cifrado AES-256 de credenciales y sync idempotente contra una API externa · `Next.js` `Supabase` `PostgreSQL`
+- 🗂️ **Plataforma de gestión de pedidos y producción** — dashboard web + app móvil, actualizaciones en tiempo real (WebSockets), control de acceso por roles y auditoría · `React` `FastAPI` `Flutter` `PostgreSQL`
+- 📊 **Plataforma SaaS de reporting multi-tenant** — aislamiento por workspace con Row-Level Security, cifrado AES-256 y sync idempotente contra una API externa · `Next.js` `Supabase` `PostgreSQL`
 - 🎨 **Frontend de plataforma de operaciones de marketing** — design system con brand tokens, previews pixel-perfect de redes y portal de aprobación con UX mobile · `Next.js` `React` `TypeScript`
-- 🤖 **Herramienta de recomendación con NLP** — embeddings con sentence-transformers, ranking por similitud coseno y scraping con Selenium · `Python`
+- 📱 **App de estadísticas deportivas multiplataforma** — Android, iOS, web y escritorio desde una sola base de código, con auth JWT y 2FA · `Flutter` `Dart` `FastAPI`
+- 🎫 **Plataforma de venta de entradas y control de acceso** — pago online + validación en puerta sin conexión y QR firmados con HMAC · `Next.js` `Supabase` `Mercado Pago`
 
 ### 📊 GitHub Stats
 
