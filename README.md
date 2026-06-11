@@ -56,11 +56,10 @@ Algunas cosas que construí — write-ups completos en mi **[portfolio](https://
 - 📱 **App de estadísticas deportivas multiplataforma** — Android, iOS, web y escritorio desde una sola base de código, con auth JWT y 2FA · `Flutter` `Dart` `FastAPI`
 - 🎫 **Plataforma de venta de entradas y control de acceso** — pago online + validación en puerta sin conexión y QR firmados con HMAC · `Next.js` `Supabase` `Mercado Pago`
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tariima&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tariima&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center"><sub>Estudiante de la Tecnicatura Universitaria en Programación.</sub></p>
