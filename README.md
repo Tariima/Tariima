@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-six-beta-qk2tnvdm9l.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://msione-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/msione03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sionematias@krownsoft.com.ar"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
@@ -21,7 +21,7 @@ Desarrollador full-stack enfocado en llevar aplicaciones a **producción real** 
 - 🤝 Contribuyendo en **Solvant** y **Krownsoft**
 - 🎓 Estudiando la **Tecnicatura Universitaria en Programación**
 - 🌎 Argentina · 🗣️ Español (nativo)
-- 🔗 **Casos de estudio completos en mi portfolio → [portfolio-six-beta-qk2tnvdm9l.vercel.app](https://portfolio-six-beta-qk2tnvdm9l.vercel.app)**
+- 🔗 **Mirá mi portfolio completo → [msione-portfolio.vercel.app](https://msione-portfolio.vercel.app)**
 
 ### 🛠️ Tech stack
 
@@ -48,7 +48,7 @@ Desarrollador full-stack enfocado en llevar aplicaciones a **producción real** 
 
 ### 💼 Trabajo destacado
 
-Algunas cosas que construí — write-ups completos en mi **[portfolio](https://portfolio-six-beta-qk2tnvdm9l.vercel.app)**:
+Algunas cosas que construí — write-ups completos en mi **[portfolio](https://msione-portfolio.vercel.app)**:
 
 - 🗂️ **Plataforma de gestión de pedidos y producción** — dashboard web + app móvil, actualizaciones en tiempo real (WebSockets), control de acceso por roles y auditoría · `React` `FastAPI` `Flutter` `PostgreSQL`
 - 📊 **Plataforma SaaS de reporting multi-tenant** — aislamiento por workspace con Row-Level Security, cifrado AES-256 y sync idempotente contra una API externa · `Next.js` `Supabase` `PostgreSQL`
