@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://msione-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=540&lines=Desarrollador+Full-Stack;Next.js+%C2%B7+TypeScript+%C2%B7+Python;Integraciones+de+pago+%26+plataformas+multi-tenant" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Desarrollador+Full-Stack;Next.js+%C2%B7+TypeScript+%C2%B7+Python;Integraciones+de+pago+%26+multi-tenant" alt="Roles" />
   </a>
 </p>
 
@@ -44,6 +44,6 @@ Algunas cosas que construí — más detalle en mi **[portfolio](https://msione-
 
 ## 📊 Actividad
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tariima&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuciones%20(incluye%20privadas)" alt="Gráfico de actividad" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tariima&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuciones" alt="Gráfico de actividad" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" />
