@@ -1,0 +1,44 @@
+name: Metrics
+on:
+  # se actualiza solo, todos los días a las 06:00 UTC
+  schedule:
+    - cron: "0 6 * * *"
+  # permite correrlo a mano desde la pestaña Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Tariima
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Argentina/Buenos_Aires
+
+          # Lenguajes más usados
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # Calendario de actividad (isométrico)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Hábitos de commits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Logros
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
