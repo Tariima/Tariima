@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tariima/portfolio"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio-six-beta-qk2tnvdm9l.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/msione03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sionematias@krownsoft.com.ar"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
@@ -18,9 +18,10 @@ Desarrollador full-stack enfocado en llevar aplicaciones a **producción real** 
 
 - 💻 Construyo apps web full-stack con **Next.js, TypeScript y Python**
 - 🧩 Plataformas multi-tenant, integraciones de pago y automatización de workflows
+- 🤝 Contribuyendo en **Solvant** y **Krownsoft**
 - 🎓 Estudiando la **Tecnicatura Universitaria en Programación**
 - 🌎 Argentina · 🗣️ Español (nativo)
-- 🔗 **Casos de estudio completos en mi portfolio → [Tariima/portfolio](https://github.com/Tariima/portfolio)**
+- 🔗 **Casos de estudio completos en mi portfolio → [portfolio-six-beta-qk2tnvdm9l.vercel.app](https://portfolio-six-beta-qk2tnvdm9l.vercel.app)**
 
 ### 🛠️ Tech stack
 
@@ -47,7 +48,7 @@ Desarrollador full-stack enfocado en llevar aplicaciones a **producción real** 
 
 ### 💼 Trabajo destacado
 
-Algunas cosas que construí — write-ups completos en mi **[portfolio](https://github.com/Tariima/portfolio)**:
+Algunas cosas que construí — write-ups completos en mi **[portfolio](https://portfolio-six-beta-qk2tnvdm9l.vercel.app)**:
 
 - 🎫 **Plataforma de venta de entradas y control de acceso** — pago online + validación de acceso en puerta incluso sin conexión, QR firmados con HMAC y webhooks de pago idempotentes · `Next.js` `Supabase` `Mercado Pago`
 - 📊 **Plataforma SaaS de reporting multi-tenant** — aislamiento por workspace con Row-Level Security, cifrado AES-256 de credenciales y sync idempotente contra una API externa · `Next.js` `Supabase` `PostgreSQL`
