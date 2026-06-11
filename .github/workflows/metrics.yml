@@ -16,12 +16,16 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: Tariima
           filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Argentina/Buenos_Aires
+
+          # Incluir actividad de repositorios privados
+          repositories_affiliations: owner, collaborator, organization_member
+          base_indepth: yes
 
           # Lenguajes más usados
           plugin_languages: yes
