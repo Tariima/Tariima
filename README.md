@@ -74,7 +74,7 @@ Detalle de cada uno (problema → qué construí → resultado) en el **[portfol
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7b96ff/Tariima" alt="Calendario de contribuciones" width="100%" />
+  <img src="./assets/contributions.svg" alt="Calendario de contribuciones" width="100%" />
 </p>
 
 > La mayor parte de mi trabajo vive en repos privados de clientes (orgs de Solvant y Krownsoft). Este perfil muestra solo una fracción; el detalle está en el [portfolio](https://msione-portfolio.vercel.app).
