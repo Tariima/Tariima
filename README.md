@@ -73,7 +73,9 @@ Detalle de cada uno (problema → qué construí → resultado) en el **[portfol
   <img src="https://streak-stats.demolab.com?user=Tariima&theme=dark&hide_border=true&background=0c0b0a&ring=f2b233&fire=f2b233&currStreakLabel=f2b233&locale=es" alt="Racha de commits" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tariima&bg_color=0c0b0a&color=a79e91&line=f2b233&point=f3eee4&area=true&area_color=f2b233&hide_border=true&custom_title=Contribuciones" alt="Gráfico de actividad" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/f2b233/Tariima" alt="Calendario de contribuciones" width="100%" />
+</p>
 
 > La mayor parte de mi trabajo vive en repos privados de clientes (orgs de Solvant y Krownsoft). Este perfil muestra solo una fracción; el detalle está en el [portfolio](https://msione-portfolio.vercel.app).
 
