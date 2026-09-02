@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://msione-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=F2B233&center=true&vCenter=true&width=720&height=45&lines=Desarrollador+full-stack+%C2%B7+Rosario%2C+Argentina;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Agentes+de+IA+(voz+%2B+WhatsApp)+%C2%B7+n8n+%C2%B7+Flutter;%2B1.500+commits+%C2%B7+8+productos+en+producci%C3%B3n" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=F2B233&center=true&vCenter=true&width=720&height=45&lines=Desarrollador+full-stack+%C2%B7+Rosario%2C+Argentina;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Agentes+de+IA+(voz+%2B+WhatsApp)+%C2%B7+n8n+%C2%B7+Flutter;8+productos+en+producci%C3%B3n+%C2%B7+16+proyectos" alt="Roles" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <a href="https://msione-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f2b233?style=for-the-badge&logo=vercel&logoColor=14110f" alt="Portfolio" /></a>
   <a href="https://msione-portfolio.vercel.app/cv/Matias-Sione-CV.pdf"><img src="https://img.shields.io/badge/CV%20%2F%20Resume-14110f?style=for-the-badge&logo=readdotcv&logoColor=f2b233" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/msione03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sionematias@krownsoft.com.ar"><img src="https://img.shields.io/badge/Email-b04d36?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sionematias@krownsoft.com.ar"><img src="https://img.shields.io/badge/Email-a3650c?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
@@ -40,16 +40,16 @@ Desarrollador full-stack. Construyo plataformas web, apps móviles y agentes de 
 
 ## 💼 Trabajo destacado
 
-Detalle de cada uno (problema → qué construí → números) en el **[portfolio](https://msione-portfolio.vercel.app#projects)**. Los proyectos de clientes están anonimizados.
+Detalle de cada uno (problema → qué construí → resultado) en el **[portfolio](https://msione-portfolio.vercel.app#projects)**. Los proyectos de clientes están anonimizados.
 
-- 📞 **Discador de voz IA + bot de cobranzas (estudio jurídico)** — autor principal (~90% de los commits). Motor de cadencias en SQL (ramp-up, cupos, ventanas horarias, opt-out), takeover humano, guardas anti-escritura-indebida, generador de demandas en Word · `Retell AI` `n8n` `Supabase` `Evolution API` `DeepEval`
-- 🗂️ **TaskFlow — pedidos y producción en tiempo real** — mayor contribuidor (466 de 983 commits). FastAPI + PostgreSQL (40 migraciones), dashboard React 19, app Flutter, WebSockets, RBAC, 14 pipelines CI/CD · [dashboard.taskflow.com.ar](https://dashboard.taskflow.com.ar)
-- 🧭 **Solvant Platform — portal de clientes y campañas outbound** — desarrollador principal (+200 commits). RLS en el 100% de las tablas, AES-256-GCM, sync idempotente con Retell, cron de cadencias · `Next.js 15` `Supabase`
-- 🎫 **Nocta — entradas, barra y control de acceso por QR** — producto propio. Multi-tenant, Mercado Pago OAuth por local, QR firmados con HMAC, PWA offline, anti-oversell atómico, 21 suites de tests + pruebas de carga · `Next.js 15` `Supabase` `Mercado Pago`
+- 📞 **Discador de voz IA + bot de cobranzas (estudio jurídico)** — autor principal del sistema. Motor de cadencias en SQL (ramp-up, cupos, ventanas horarias, opt-out), takeover humano, guardas anti-escritura-indebida, generador de demandas en Word · `Retell AI` `n8n` `Supabase` `Evolution API` `DeepEval`
+- 🗂️ **TaskFlow — pedidos y producción en tiempo real** — full-stack: API FastAPI + PostgreSQL, dashboard React 19, app Flutter, WebSockets, RBAC, CI/CD para staging y producción · [dashboard.taskflow.com.ar](https://dashboard.taskflow.com.ar)
+- 🧭 **Solvant Platform — portal de clientes y campañas outbound** — desarrollador principal. RLS en todas las tablas, AES-256-GCM, sync idempotente con Retell, cron de cadencias, white-label por cliente · `Next.js 15` `Supabase`
+- 🎫 **Nocta — entradas, barra y control de acceso por QR** — producto propio. Multi-tenant, Mercado Pago OAuth por local, QR firmados con HMAC, PWA offline, anti-oversell atómico, tests y pruebas de carga · `Next.js 15` `Supabase` `Mercado Pago`
 - 🛡️ **Trazabilidad de rondas para seguridad privada** — web + app nativa Android. Geocercas, QR aleatorio, botón de pánico (FCM), tres roles aislados por RLS · `Next.js 16` `Expo` `Supabase`
-- 🎨 **Plataforma multi-tenant de agencia de marketing (~20 workspaces)** — segundo contribuidor (~260 commits). Composer con previews fieles, portal cliente co-branded, cierre de brechas de RLS · `Next.js 16` `React 19` `Supabase`
-- 🏭 **ERP a medida (carpintería de aluminio)** — frontend, schema del módulo de obras, suite E2E; motor de precios calibrado a 1,10% de error sobre 12.897 aberturas reales · `Next.js 16` `Supabase` `Python`
-- 🤖 **Agentes de ventas B2B por WhatsApp + Odoo** — builder de 30 workflows n8n como código, suite de 129 evals con tests de efectos reales, monitoreo con dead-man switch · `n8n` `Odoo` `OpenAI`
+- 🎨 **Plataforma multi-tenant de agencia de marketing (~20 workspaces)** — frontend y seguridad de datos. Composer con previews fieles, portal cliente co-branded, cierre de brechas de RLS · `Next.js 16` `React 19` `Supabase`
+- 🏭 **ERP a medida (carpintería de aluminio)** — frontend, módulo de obras, pruebas E2E; motor de precios calibrado a 1,10% de error sobre miles de aberturas reales · `Next.js 16` `Supabase` `Python`
+- 🤖 **Agentes de ventas B2B por WhatsApp + Odoo** — workflows n8n generados como código, evaluaciones automatizadas con tests de efectos reales, monitoreo con dead-man switch · `n8n` `Odoo` `OpenAI`
 
 ## 🛠️ Stack
 
