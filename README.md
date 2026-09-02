@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://msione-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=F2B233&center=true&vCenter=true&width=720&height=45&lines=Desarrollador+full-stack+%C2%B7+Rosario%2C+Argentina;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Agentes+de+IA+(voz+%2B+WhatsApp)+%C2%B7+n8n+%C2%B7+Flutter;8+productos+en+producci%C3%B3n+%C2%B7+16+proyectos" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=F2B233&center=true&vCenter=true&width=720&height=45&lines=Desarrollador+full-stack+%C2%B7+Rosario%2C+Argentina;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Agentes+de+IA+(voz+%2B+WhatsApp)+%C2%B7+n8n+%C2%B7+Flutter;8+productos+en+producci%C3%B3n+%C2%B7+13+proyectos" alt="Roles" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Desarrollador full-stack. Construyo plataformas web, apps móviles y agentes de 
 | Fecha | Env | Qué se lanzó |
 |---|---|---|
 | 2026-09-02 | `prod` | ERP para un fabricante de carpintería de aluminio: pase a producción verificado (12/12 smoke tests) |
-| 2026-08 | `prod` | Gestor de campañas outbound + white-label por cliente en **Solvant Platform** |
+| 2026-08 | `prod` | Consola de cobranzas, discador y agenda sin doble turno para el estudio jurídico en el portal de clientes (**Solvant Platform**) |
 | 2026-07 | `prod` | Discador de voz IA + bot de cobranzas para un estudio jurídico: dos líneas de WhatsApp en producción |
 | 2026-07 | `prod` | Plataforma multi-tenant para una agencia de marketing (~20 workspaces): portal de cliente co-branded |
 | 2026-06 | `beta` | **Nocta**: MVP multi-tenant con Mercado Pago OAuth y escaneo offline en puerta |
@@ -44,7 +44,7 @@ Detalle de cada uno (problema → qué construí → resultado) en el **[portfol
 
 - 📞 **Discador de voz IA + bot de cobranzas (estudio jurídico)** — autor principal del sistema. Motor de cadencias en SQL (ramp-up, cupos, ventanas horarias, opt-out), takeover humano, guardas anti-escritura-indebida, generador de demandas en Word · `Retell AI` `n8n` `Supabase` `Evolution API` `DeepEval`
 - 🗂️ **TaskFlow — pedidos y producción en tiempo real** — full-stack: API FastAPI + PostgreSQL, dashboard React 19, app Flutter, WebSockets, RBAC, CI/CD para staging y producción · [dashboard.taskflow.com.ar](https://dashboard.taskflow.com.ar)
-- 🧭 **Solvant Platform — portal de clientes y campañas outbound** — desarrollador principal. RLS en todas las tablas, AES-256-GCM, sync idempotente con Retell, cron de cadencias, white-label por cliente · `Next.js 15` `Supabase`
+- 🧭 **Solvant Platform — módulos por cliente en el portal** — consola de cobranzas con calculadora de ofertas y puente al asesor, agenda sin doble turno, líneas de WhatsApp y credenciales de Chatwoot por cliente · `Next.js 15` `Supabase`
 - 🎫 **Nocta — entradas, barra y control de acceso por QR** — producto propio. Multi-tenant, Mercado Pago OAuth por local, QR firmados con HMAC, PWA offline, anti-oversell atómico, tests y pruebas de carga · `Next.js 15` `Supabase` `Mercado Pago`
 - 🛡️ **Trazabilidad de rondas para seguridad privada** — web + app nativa Android. Geocercas, QR aleatorio, botón de pánico (FCM), tres roles aislados por RLS · `Next.js 16` `Expo` `Supabase`
 - 🎨 **Plataforma multi-tenant de agencia de marketing (~20 workspaces)** — frontend y seguridad de datos. Composer con previews fieles, portal cliente co-branded, cierre de brechas de RLS · `Next.js 16` `React 19` `Supabase`
