@@ -35,15 +35,17 @@ const DAYS = { 1: "Lun", 3: "Mié", 5: "Vie" };
 let out = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">`;
 out += `<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="12" fill="${BG}" stroke="${BORDER}"/>`;
 
-// meses (cuando cambia el mes en la primera fila de la semana)
+// meses: una etiqueta por cambio de mes, sin pisarse (mínimo 3 semanas entre etiquetas)
+const labels = [];
 let lastMonth = -1;
 weeks.forEach((w, i) => {
-  const first = w.contributionDays[0];
-  const m = new Date(first.date + "T00:00:00Z").getUTCMonth();
-  if (m !== lastMonth) {
-    if (i > 0 || true) out += `<text x="${LEFT + i * STEP}" y="${TOP - 10}" fill="${TEXT}">${MONTHS[m]}</text>`;
-    lastMonth = m;
-  }
+  const m = new Date(w.contributionDays[0].date + "T00:00:00Z").getUTCMonth();
+  if (m !== lastMonth) { labels.push({ i, m }); lastMonth = m; }
+});
+labels.forEach((l, k) => {
+  const next = labels[k + 1];
+  if (next && next.i - l.i < 3) return; // la semana parcial del inicio se solaparía con el mes siguiente
+  out += `<text x="${LEFT + l.i * STEP}" y="${TOP - 10}" fill="${TEXT}">${MONTHS[l.m]}</text>`;
 });
 
 // días
