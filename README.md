@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0b0a,50:24190c,100:f2b233&height=200&section=header&text=Mat%C3%ADas%20Sione&fontSize=46&fontColor=f3eee4&animation=fadeIn&fontAlignY=36&desc=Llevo%20software%20a%20producci%C3%B3n.&descAlignY=58&descSize=18" alt="Matías Sione" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070b18,50:0f1526,100:7b96ff&height=200&section=header&text=Mat%C3%ADas%20Sione&fontSize=46&fontColor=edf0fa&animation=fadeIn&fontAlignY=36&desc=Llevo%20software%20a%20producci%C3%B3n.&descAlignY=58&descSize=18" alt="Matías Sione" />
 
 <p align="center">
   <a href="https://msione-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=F2B233&center=true&vCenter=true&width=720&height=45&lines=Desarrollador+full-stack+%C2%B7+Rosario%2C+Argentina;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Agentes+de+IA+(voz+%2B+WhatsApp)+%C2%B7+n8n+%C2%B7+Flutter;8+productos+en+producci%C3%B3n+%C2%B7+13+proyectos" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=7B96FF&center=true&vCenter=true&width=720&height=45&lines=Desarrollador+full-stack+%C2%B7+Rosario%2C+Argentina;Next.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Supabase;Agentes+de+IA+(voz+%2B+WhatsApp)+%C2%B7+n8n+%C2%B7+Flutter;8+productos+en+producci%C3%B3n+%C2%B7+13+proyectos" alt="Roles" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://msione-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f2b233?style=for-the-badge&logo=vercel&logoColor=14110f" alt="Portfolio" /></a>
-  <a href="https://msione-portfolio.vercel.app/cv/Matias-Sione-CV.pdf"><img src="https://img.shields.io/badge/CV%20%2F%20Resume-14110f?style=for-the-badge&logo=readdotcv&logoColor=f2b233" alt="CV" /></a>
+  <a href="https://msione-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7b96ff?style=for-the-badge&logo=vercel&logoColor=060a1a" alt="Portfolio" /></a>
+  <a href="https://msione-portfolio.vercel.app/cv/Matias-Sione-CV.pdf"><img src="https://img.shields.io/badge/CV%20%2F%20Resume-0b1020?style=for-the-badge&logo=readdotcv&logoColor=7b96ff" alt="CV" /></a>
   <a href="https://www.linkedin.com/in/msione03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sionematias@krownsoft.com.ar"><img src="https://img.shields.io/badge/Email-a3650c?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sionematias@krownsoft.com.ar"><img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
@@ -70,13 +70,13 @@ Detalle de cada uno (problema → qué construí → resultado) en el **[portfol
 ## 📊 Actividad
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tariima&theme=dark&hide_border=true&background=0c0b0a&ring=f2b233&fire=f2b233&currStreakLabel=f2b233&locale=es" alt="Racha de commits" />
+  <img src="https://streak-stats.demolab.com?user=Tariima&theme=dark&hide_border=true&background=070b18&ring=7b96ff&fire=7b96ff&currStreakLabel=7b96ff&locale=es" alt="Racha de commits" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/f2b233/Tariima" alt="Calendario de contribuciones" width="100%" />
+  <img src="https://ghchart.rshah.org/7b96ff/Tariima" alt="Calendario de contribuciones" width="100%" />
 </p>
 
 > La mayor parte de mi trabajo vive en repos privados de clientes (orgs de Solvant y Krownsoft). Este perfil muestra solo una fracción; el detalle está en el [portfolio](https://msione-portfolio.vercel.app).
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f2b233,50:24190c,100:0c0b0a&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b96ff,50:0f1526,100:070b18&height=120&section=footer" alt="" />
